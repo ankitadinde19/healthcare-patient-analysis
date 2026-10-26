@@ -1,2 +1,48 @@
 # healthcare-patient-analysis
 Healthcare Patient and Blood Group Analysis using Microsoft Excel, PivotTables, charts, and an interactive dashboard.
+
+# Healthcare Patient & Blood Group Analysis – Hospital Operations Dashboard
+
+## Project Overview
+This project analyzes hospital patient data using Microsoft Excel to understand patient demographics, blood group distribution, admission patterns, and length of hospital stay.
+
+## Objectives
+- Analyze total patient admissions.
+- Compare male and female patient counts.
+- Study blood group distribution.
+- Identify emergency admissions.
+- Analyze hospital stay duration.
+- Present key metrics through an interactive dashboard.
+
+## Tools & Skills
+- Microsoft Excel
+- Data Cleaning and Data Standardization
+- Excel Formulas
+- PivotTables and PivotCharts
+- Interactive Dashboard Design
+- Data Analysis and Visualization
+
+## Project Workflow
+1. Cleaned and standardized the patient dataset.
+2. Checked for duplicate and inconsistent records.
+3. Used Excel formulas to create analysis categories.
+4. Created PivotTables to summarize patient data.
+5. Developed charts and KPI cards.
+6. Built a dashboard to communicate findings.
+
+## Key Insights
+- Analyzed patient distribution by gender and blood group.
+- Examined admission patterns and emergency cases.
+- Compared hospital stay durations.
+- Summarized operational trends using dashboard visualizations.
+
+*Note: Replace these statements with verified numerical findings from the final workbook.*
+
+## Files Included
+- `Healthcare_Patient_Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
+- `dashboard_preview.png` — Dashboard preview image, if included.
+
+## Author
+Ankita Dinde
+
+Aspiring Data Analyst
